@@ -15,7 +15,7 @@ source = article(
     volume="31",
     number="3",
     pages="281–297",
-    url="https://eudml.org/doc/132580",
+    url="https://doi.org/10.1007/BF01397880",
 )
 
 this_dir = pathlib.Path(__file__).resolve().parent
